@@ -1,3 +1,4 @@
 .dist
 .pytest_cache
 env
+__pyache__

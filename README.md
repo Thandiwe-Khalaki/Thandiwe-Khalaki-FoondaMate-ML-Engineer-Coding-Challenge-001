@@ -31,6 +31,8 @@ The function 'check_email' takes in a string as a sentence and returns 'Student 
 
 - First, start by installing python 3.x and pip.
   > https://www.python.org/downloads/
+
+  
   > https://pypi.org/project/pip/
 
 - Then clone this repository
